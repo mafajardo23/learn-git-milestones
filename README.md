@@ -322,7 +322,7 @@ Item # | Description | Completed
 7 | 3rd Favorite emoji | 😤
 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/omundy/learn-git-milestones/commit/34baf7cd6cb07f62b2434467ff356ec6c65b85c4)
 9a | Link to `first-website` github.com repo page | [link to repo page](https://github.com/mafajardo23/first-website)
-9a | Link to `first-website` github.io "project site" |
+9a | Link to `first-website` github.io "project site" | [my first website](https://mafajardo23.github.io/first-website/)
 
 
 
