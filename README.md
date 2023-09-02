@@ -319,7 +319,7 @@ Item # | Description | Completed
 5b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/c22c6d1d91a064e1f8973824181ebe3f5964a915)
 6a | Full path to your working directory | /Users/mariafajardo/Desktop/critical-web-design/learn-git-milestones
 6b | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/mafajardo23/learn-git-milestones/edit/main/README.md)
-7 | 3rd Favorite emoji | 
+7 | 3rd Favorite emoji | 😤
 8 | Link to `commit #4 from VS Code` | [commit #4 from VS Code](https://github.com/omundy/learn-git-milestones/commit/34baf7cd6cb07f62b2434467ff356ec6c65b85c4)
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
