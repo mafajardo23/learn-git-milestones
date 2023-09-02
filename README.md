@@ -311,7 +311,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-4a | 1st Favorite emoji | ADD_TEXT_TO_THIS_COLUMN
+4a | 1st Favorite emoji | 🥯
 4b | Link to `commit #1 from Github.com` |
 4c | Link to markdown tables docs |
 4d | What does `log` do? |
