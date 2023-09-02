@@ -315,7 +315,7 @@ Item # | Description | Completed
 4b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/mafajardo23/learn-git-milestones/blob/main/README.md)
 4c | Link to markdown tables docs | [Table Guide](https://www.markdownguide.org/extended-syntax/#:~:text=To%20add%20a%20table%2C%20use,either%20end%20of%20the%20row.&text=Cell%20widths%20can%20vary%2C%20as,output%20will%20look%20the%20same.)
 4d | What does `log` do? | Log lets you see the previous edits and commits so that you can review them. 
-5a | 2nd Favorite emoji |
+5a | 2nd Favorite emoji | 🫡
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
 6b | Link to `commit #3 from CLI` |
